@@ -27,7 +27,7 @@ Git · API REST
 | Projet | Stack | Description |
 |---|---|---|
 | [Churn Prediction Model](https://github.com/meldub94) | Python · Scikit-learn · Seaborn | Modèle supervisé de prédiction du churn — 85% accuracy (RF, 5-fold CV) |
-| [Sales Analysis Dashboard](https://github.com/meldub94) | SQL · Power Query · Looker Studio | Pipeline ETL + dashboard interactif de suivi des ventes |
+| [Predictive Maintenance — ML Industriel](https://github.com/meldub94/predictive-maintenance-project) | Python · Scikit-learn · SMOTE · WandB | Prédiction de défaillance industrielle 24h à l'avance — ROC-AUC 0.9998, recall 99.70% |
 | [Marketing ML — Segmentation & Scoring](https://github.com/meldub94/Advanced-Marketing-Analytics-Decision-Intelligence) | Python · K-Means · SHAP · Gradient Boosting | Segmentation client + scoring campagne + recommandation exécutive |
 
 ---
