@@ -12,13 +12,16 @@ Double formation Finance & Data Management — je comprends les enjeux métier a
 Python · SQL · R · VBA
 
 **Data & ML**
-Pandas · Scikit-learn · Matplotlib · Seaborn · ETL · Feature Engineering · K-Means · SHAP
+Pandas · Scikit-learn · Matplotlib · Seaborn · ETL · Feature Engineering · K-Means · SHAP · SMOTE
 
 **Visualisation**
-Power BI · Looker Studio · Excel Avancé · Power Query
+Power BI · Looker Studio · Excel Avancé · Power Query · Folium
+
+**Collecte de données**
+Selenium · BeautifulSoup · API REST · OpenData Paris
 
 **Outils**
-Git · API REST
+Git · WandB · pytest · Streamlit
 
 ---
 
@@ -28,7 +31,8 @@ Git · API REST
 |---|---|---|
 | [Churn Prediction Model](https://github.com/meldub94) | Python · Scikit-learn · Seaborn | Modèle supervisé de prédiction du churn — 85% accuracy (RF, 5-fold CV) |
 | [Predictive Maintenance — ML Industriel](https://github.com/meldub94/predictive-maintenance-project) | Python · Scikit-learn · SMOTE · WandB | Prédiction de défaillance industrielle 24h à l'avance — ROC-AUC 0.9998, recall 99.70% |
-| [Marketing ML — Segmentation & Scoring](https://github.com/meldub94/Advanced-Marketing-Analytics-Decision-Intelligence) | Python · K-Means · SHAP · Gradient Boosting | Segmentation client + scoring campagne + recommandation exécutive |
+| [Marketing ML — Segmentation & Scoring](https://github.com/meldub94/Advanced-Marketing-Analytics-Decision-Intelligence) | Python · K-Means · SHAP · Streamlit | Segmentation client + scoring campagne + recommandation exécutive |
+| [Data Collection — Scraping & API](https://github.com/meldub94/data-collection-projects) | Selenium · Folium · API REST | Scraping Doctolib (470+ médecins) + monitoring Vélib temps réel |
 
 ---
 
