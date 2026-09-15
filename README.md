@@ -39,8 +39,8 @@ Git · WandB · pytest · Streamlit
 ---
 
 ## Certifications en cours
-- Microsoft Power BI Data Analyst Associate — PL-300 *(passage prévu mai 2026)*
-- AWS Certified AI Practitioner — AIF-C01 *(passage prévu mai 2026)*
+- Microsoft Power BI Data Analyst Associate — PL-300 *(en cours)*
+- AWS Certified AI Practitioner — AIF-C01 *(en cours)*
 
 ---
 
